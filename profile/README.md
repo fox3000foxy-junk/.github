@@ -20,7 +20,7 @@
 
 <br>
 
-<a href="#-about"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trash%20Can.png" width="12" /> About</a> &nbsp;·&nbsp; <a href="#-whats-inside"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="12" /> What's inside</a> &nbsp;·&nbsp; <a href="https://github.com/fox3000foxy"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" width="12" /> Main profile</a>
+<a href="#-about"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wastebasket.png" width="12" /> About</a> &nbsp;·&nbsp; <a href="#-whats-inside"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="12" /> What's inside</a> &nbsp;·&nbsp; <a href="https://github.com/fox3000foxy"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" width="12" /> Main profile</a>
 
 </div>
 
@@ -29,7 +29,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" />
 
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trash%20Can.png" width="30"> &nbsp;About
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wastebasket.png" width="30"> &nbsp;About
 </h2>
 
 ```js
